@@ -1,0 +1,380 @@
+[
+  {
+    "codigo": "",
+    "asignatura": "Cálculo Diferencial",
+    "creditos": 3,
+    "semestre": 1,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Programación I",
+    "creditos": 4,
+    "semestre": 1,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Dibujo Técnico",
+    "creditos": 3,
+    "semestre": 1,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Química General",
+    "creditos": 4,
+    "semestre": 1,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Metodología de la investigación",
+    "creditos": 1,
+    "semestre": 1,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Cálculo Integral",
+    "creditos": 3,
+    "semestre": 2,
+    "requisito": "Cálculo Diferencial"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Física I",
+    "creditos": 4,
+    "semestre": 2,
+    "requisito": "Cálculo Diferencial"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Topografía",
+    "creditos": 4,
+    "semestre": 2,
+    "requisito": "Dibujo Técnico"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Algebra Líneal",
+    "creditos": 3,
+    "semestre": 2,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Probailidad Y Estadística",
+    "creditos": 3,
+    "semestre": 2,
+    "requisito": "Curso De Competencias Matemáticas"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Ecuaciones Diferenciales",
+    "creditos": 3,
+    "semestre": 3,
+    "requisito": "Cálculo Integral"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Mécanica",
+    "creditos": 3,
+    "semestre": 3,
+    "requisito": "Física I"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Geología",
+    "creditos": 3,
+    "semestre": 3,
+    "requisito": "Topografía"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Métodos Numéricos",
+    "creditos": 3,
+    "semestre": 3,
+    "requisito": "Programación I"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Física II",
+    "creditos": 4,
+    "semestre": 3,
+    "requisito": "Física I"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Mécanica De Fluidos",
+    "creditos": 3,
+    "semestre": 4,
+    "requisito": "Mécanica"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Geomática",
+    "creditos": 3,
+    "semestre": 4,
+    "requisito": "Topografía"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Materiales De Construcción",
+    "creditos": 4,
+    "semestre": 4,
+    "requisito": "Geología"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Diseño Geométrico De Carreteras",
+    "creditos": 4,
+    "semestre": 4,
+    "requisito": "Topografía"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Investigación De Operaciones",
+    "creditos": 3,
+    "semestre": 4,
+    "requisito": "Algebra Líneal"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Administración De Empresas de Ingeniería",
+    "creditos": 3,
+    "semestre": 5,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Resistencia De Materiales",
+    "creditos": 3,
+    "semestre": 5,
+    "requisito": "Mécanica"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Hidráulica",
+    "creditos": 3,
+    "semestre": 5,
+    "requisito": "Mécanica De Fluidos"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Concretos Asfálticos",
+    "creditos": 3,
+    "semestre": 5,
+    "requisito": "Materiales De Construcción"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Hidrología",
+    "creditos": 3,
+    "semestre": 5,
+    "requisito": "Mécanica De Fluidos"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Análisis Estructural I",
+    "creditos": 3,
+    "semestre": 6,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Acueductos Y Alcantarillados",
+    "creditos": 4,
+    "semestre": 6,
+    "requisito": "Hidráulica"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Formulación Y Evaluación De Proyectos",
+    "creditos": 3,
+    "semestre": 6,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Mécanica De Suelos",
+    "creditos": 4,
+    "semestre": 6,
+    "requisito": "Materiales De Construcción"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Electiva",
+    "creditos": 3,
+    "semestre": 6,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Estructura De Concreto Armado I",
+    "creditos": 3,
+    "semestre": 7,
+    "requisito": "Análisis Estructural I"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Análisis Estructural II",
+    "creditos": 3,
+    "semestre": 7,
+    "requisito": "Análisis Estructural I"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Cimentaciones",
+    "creditos": 3,
+    "semestre": 7,
+    "requisito": "Mecánica De Suelos"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Pavimentos",
+    "creditos": 4,
+    "semestre": 7,
+    "requisito": "Mecánica De Suelos"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Electiva",
+    "creditos": 3,
+    "semestre": 7,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Estructura De Concreto Armado II",
+    "creditos": 3,
+    "semestre": 8,
+    "requisito": "Estructura De Concreto Armado I"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Tratamiento De Aguas",
+    "creditos": 4,
+    "semestre": 8,
+    "requisito": "Acueductos Y Alcantarillados"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Técnicas De Construcción De Obras Viales",
+    "creditos": 3,
+    "semestre": 8,
+    "requisito": "Pavimentos"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Electiva",
+    "creditos": 3,
+    "semestre": 8,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Electiva",
+    "creditos": 3,
+    "semestre": 8,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Técnicas De Construcción De Edificaciones",
+    "creditos": 3,
+    "semestre": 9,
+    "requisito": "Estructura De Concreto Armado II"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Proyectos de Ingeniería Civil",
+    "creditos": 3,
+    "semestre": 9,
+    "requisito": "Formulación Y Evaluación De Proyectos"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Electiva",
+    "creditos": 3,
+    "semestre": 9,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Electiva",
+    "creditos": 3,
+    "semestre": 9,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Electiva",
+    "creditos": 3,
+    "semestre": 9,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Formacion Humanistica Humanismo",
+    "creditos": 2,
+    "semestre": 0,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Formacion Humanistica Cultura Artistica",
+    "creditos": 1,
+    "semestre": 0,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Formacion Humanistica Contexto",
+    "creditos": 1,
+    "semestre": 0,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Formacion Humanistica Ciudadana",
+    "creditos": 1,
+    "semestre": 0,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Formacion Humanistica Fundamentacion",
+    "creditos": 1,
+    "semestre": 0,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Lectura y producción de textos I",
+    "creditos": 1,
+    "semestre": 0,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Lectura y producción de textos 2",
+    "creditos": 1,
+    "semestre": 0,
+    "requisito": "Lectura y producción de textos I"
+  },
+  {
+    "codigo": "",
+    "asignatura": "Lenguaje",
+    "creditos": 1,
+    "semestre": 0,
+    "requisito": ""
+  },
+  {
+    "codigo": "",
+    "asignatura": "Tecnicas De Estudio",
+    "creditos": 1,
+    "semestre": 0,
+    "requisito": ""
+  }
+]
